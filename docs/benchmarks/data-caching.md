@@ -48,7 +48,7 @@ As mentioned before, you can have multiple instances of the Memcached server, ju
 
 ### Starting the Client ####
 
-To start the client you have to first `pull` the client image and then run it. To `pull` the server image use the following command:
+To start the client you have to first `pull` the client image and then run it. To `pull` the client image use the following command:
 
     $ docker pull cloudsuite/data-caching:client
 
